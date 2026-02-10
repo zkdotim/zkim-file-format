@@ -65,7 +65,7 @@
     "libsodium-wrappers-sumo": "^0.8.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.39.2",
+    "@eslint/js": "^10.0.1",
     "@types/jest": "^30.0.0",
     "@types/libsodium-wrappers-sumo": "^0.7.8",
     "@types/node": "^25.0.3",
